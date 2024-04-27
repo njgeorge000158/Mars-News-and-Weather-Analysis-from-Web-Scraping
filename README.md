@@ -7,7 +7,7 @@
 
 This Challenge is a full web-scraping and data analysis project.  To complete this task, I have to identify HTML elements on a page, find their attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup: these types of information include HTML tables and recurring elements such as multiple news articles.  As with all such projects, its completion requires the collection, organization, and storage of data, and then the visual communication of any insights.
 
-For the first part, I use automated browsing to visit the [Mars News Website](https://static.bc-edx.com/data/web/mars_news/index.html).  After a visual inspection of the webpage to identify which elements to scrape, I create a Beautiful Soup object and use it to extract text elements.  From these elements, I retrieve the titles and preview text of the news articles before storing the information in a List of Python Dictionaries.  After displaying the results in the IPython Notebook, MarsNewsPy.ipynb, I write the information to a JSON file in the Resources folder, MarsNewsData.json.
+For the first part, I use automated browsing to visit the [Mars News Website](https://mars.nasa.gov/news/).  After a visual inspection of the webpage to identify which elements to scrape, I create a Beautiful Soup object and use it to extract text elements.  From these elements, I retrieve the titles and preview text of the news articles before storing the information in a List of Python Dictionaries.  After displaying the results in the IPython Notebook, mars_news.ipynb, I write the information to a JSON file in the Resources folder, mars_news.json.
 
 The second part includes the analysis of weather data subsequent to web scraping.  As with Part 1, I use automated browsing to visit and inspect the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html) before scraping the Mars Weather Data from an HTML table into a Pandas DataFrame.  From this DataFrame, I answer the following questions concerning weather on Mars:
 
@@ -43,10 +43,10 @@ The second part includes the analysis of weather data subsequent to web scraping
 year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days
 found through an Internet search.
 
-Ultimately, this project demonstrates effective use of web scraping to collect and analyze data. In this case, the findings provide valuable insights into Martian temperature, atmospheric pressure, and years.  Upon completion of the analysis, I exported all my results to the Images folder and a CSV file in the Resources folder, MarsWeatherData.csv.  
+Ultimately, this project demonstrates effective use of web scraping to collect and analyze data. In this case, the findings provide valuable insights into Martian temperature, atmospheric pressure, and years.  Upon completion of the analysis, I exported all my results to the folder, images, and a CSV file in the folder, resources, mars_weather.csv.  
 
 ----
 
 ## Copyright
 
-N. James George © 2023. All Rights Reserved.
+Nicholas J. George © 2023. All Rights Reserved.
