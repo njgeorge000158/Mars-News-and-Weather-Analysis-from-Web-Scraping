@@ -8,7 +8,7 @@
 
 If the computer has Anaconda, Jupyter Notebook, and a recent version of Python, the IPython notebook already has the following dependencies installed: datetime, io, json, matplotlib, numpy, pandas, pathlib, os, pandas, requests, requests_html, scipy.
 
-In addition to those modules, the IPython notebook needs the following to execute: holoviews, hvplot, geoviews, geopy, aspose-words, dataframe-image, selenium, beautiful soup, splinter, chromedriver.
+In addition to those modules, the IPython notebook needs the following to execute: holoviews, hvplot, geoviews, geopy, aspose-words, dataframe-image, selenium, beautiful soup.
 
 Here are the requisite Terminal commands for the installation of these peripheral modules:
 
@@ -28,33 +28,33 @@ python3 -m pip install selenium
 
 python3 -m pip install beautifulsoup4
 
-python3 -m pip install splinter
-
-https://chromedriver.chromium.org/getting-started
-
 ----
 
 ### **Usage:**
 
 ----
 
-The IPython notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb, require the following Python scripts with them in the same folder:
+The IPython notebooks, mars_news.ipynb and mars_weather.ipynb, require the following Python scripts with them in the same folder:
 
-PyConstants.py
+logx_constants.py
 
-PyFunctions.py
+logx.py
 
-PyLogConstants.py
+mars_news_constants.py
 
-PyLogFunctions.py
+mathx.py
 
-PyLogSubRoutines.py
+matplotlibx.py
 
-PySubroutines.py
+pandasx_constants.py
 
-If the folders, Resources, Logs, and Images are not present, an IPython notebook will create them.  The Resources folder holds the output files from the IPython Notebooks; the Logs folder contains debug and log files from testing the IPython Notebooks; and the Images folder has the PNG image files of IPython Notebooks' tables and plots.
+pandasx.py
 
-To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Debug Mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in Log Mode for log information sent to a log file. If the program is in Log Mode but NOT Debug Mode, it displays no debug information, but writes that information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG files in the Images Folder.
+timex.py
+
+If the folders, logs and images, are not present, an IPython notebook will create them.  The folder, resources, holds the input/output files from the IPython Notebooks; the folder, logs, contains log files from testing the IPython Notebooks; and the folder, images, has the PNG image files of IPython Notebooks' tables and plots.
+
+To place the IPython notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG files in the Folder, images.
 
 ----
 
@@ -64,16 +64,16 @@ To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the par
 
 #### Source code
 
-MarsNewsPy.ipynb, MarsWeatherPy.ipynb
+mars_news.ipynb, mars_weather.ipynb
 
 #### Input files
 
-https://static.bc-edx.com/data/web/mars_news/index.html \
+https://mars.nasa.gov/news/
 https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 #### Output files
 
-MarsNewsData.json, MarsWeatherData.csv
+mars_news.json, mars_weather.csv
 
 #### SQL script
 
@@ -93,27 +93,16 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Scipy, Selenium
 
 #### main branch 
 
-|&rarr; [./MarsNewsPy.ipynb](./MarsNewsPy.ipynb)
+|&rarr; [./mars_news_constants.py](./mars_news_constants.py)
 
-|&rarr; [./MarsWeatherPy.ipynb](./MarsWeatherPy.ipynb)
+|&rarr; [./mars_news.ipynb](./mars_news.ipynb)
 
-|&rarr; [./PyConstants.py](./PyConstants.py)
+|&rarr; [./mars_weather.ipynb](./mars_weather.ipynb)
 
-|&rarr; [./PyFunctions.py](./PyFunctions.py)
-
-|&rarr; [./PyLogConstants.py](./PyLogConstants.py)
-
-|&rarr; [./PyLogFunctions.py](./PyLogFunctions.py)
-
-|&rarr; [./PyLogSubRoutines.py](./PyLogSubRoutines.py)
-
-|&rarr; [./PySubRoutines.py](./PySubRoutines.py)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
 |&rarr; [./README.md](./README.md)
-
-|&rarr; [./Table-Of-Contents-MNAWATWS.md](./Table-Of-Contents-MNAWATWS.md)
 
 |&rarr; [./Images/](./Images/)
 
