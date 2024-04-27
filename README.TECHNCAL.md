@@ -99,36 +99,35 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Scipy, Selenium
 
 |&rarr; [./mars_weather.ipynb](./mars_weather.ipynb)
 
-
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
 |&rarr; [./README.md](./README.md)
 
-|&rarr; [./Images/](./Images/)
+|&rarr; [./images/](./images/)
 
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png](./Images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png](./images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png](./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png](./images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png](./Images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png](./images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure54SolarLongitudevsEarthTimewithPeaks.png](./Images/MarsWeatherPyFigure54SolarLongitudevsEarthTimewithPeaks.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure54SolarLongitudevsEarthTimewithPeaks.png](./images/MarsWeatherPyFigure54SolarLongitudevsEarthTimewithPeaks.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure55MinimumDailyTemperaturevsEarthTime.png](./Images/MarsWeatherPyFigure55MinimumDailyTemperaturevsEarthTime.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure55MinimumDailyTemperaturevsEarthTime.png](./images/MarsWeatherPyFigure55MinimumDailyTemperaturevsEarthTime.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure56MinimumDailyTemperaturevsEarthTimewithLabeledPeaks.png](./Images/MarsWeatherPyFigure56MinimumDailyTemperaturevsEarthTimewithLabeledPeaks.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyFigure56MinimumDailyTemperaturevsEarthTimewithLabeledPeaks.png](./images/MarsWeatherPyFigure56MinimumDailyTemperaturevsEarthTimewithLabeledPeaks.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyTable31MarsWeatherData.png](./Images/MarsWeatherPyTable31MarsWeatherData.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyTable31MarsWeatherData.png](./images/MarsWeatherPyTable31MarsWeatherData.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyTable41MarsWeatherDataTypes.png](./Images/MarsWeatherPyTable41MarsWeatherDataTypes.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyTable41MarsWeatherDataTypes.png](./images/MarsWeatherPyTable41MarsWeatherDataTypes.png)
 
-  &emsp; |&rarr; [./Images/MarsWeatherPyTable42UpdatedMarsWeatherDataTypes.png](./Images/MarsWeatherPyTable42UpdatedMarsWeatherDataTypes.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyTable42UpdatedMarsWeatherDataTypes.png](./images/MarsWeatherPyTable42UpdatedMarsWeatherDataTypes.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyTable51AverageLowTemperaturebyMonth.png](./Images/MarsWeatherPyTable51AverageLowTemperaturebyMonth.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyTable51AverageLowTemperaturebyMonth.png](./images/MarsWeatherPyTable51AverageLowTemperaturebyMonth.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyTable52AverageDailyAtmosphericPressurebyMonth.png](./Images/MarsWeatherPyTable52AverageDailyAtmosphericPressurebyMonth.png)
+  &emsp; |&rarr; [./images/MarsWeatherPyTable52AverageDailyAtmosphericPressurebyMonth.png](./images/MarsWeatherPyTable52AverageDailyAtmosphericPressurebyMonth.png)
 
-  &emsp; |&rarr; [./Images/README.md](./Images/README.md)
+  &emsp; |&rarr; [./images/README.md](./images/README.md)
 
 |&rarr; [./Logs/](./Logs/)
 
