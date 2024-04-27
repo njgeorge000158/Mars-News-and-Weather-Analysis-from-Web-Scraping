@@ -21,19 +21,19 @@ The second part includes the analysis of weather data subsequent to web scraping
 
 * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 
-![MarsWeatherPyFigure51AverageLowTemperaturebyMonthonMars](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/a7fca727-1fda-4c57-bc71-67aacdfcd753)
+<img width="960" alt="Screenshot 2024-04-27 at 10 21 16 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/bfa60572-bfe9-42ad-9bf8-f3ee66de33ce">
 
    On average, the month with the coldest minimum temperature on Mars in Curiosity's location is number 3, and the month with the warmest is number 8.
 
 * Which months have the lowest and the highest atmospheric pressure on Mars?
 
-![MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonth](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/30bde89f-65b7-440d-a17c-813905d0cc44)
+<img width="945" alt="Screenshot 2024-04-27 at 10 22 15 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/5cfa13a3-c79e-4653-99e0-1f8acb7aef36">
 
    On average, the month with the lowest atmospheric pressure on Mars in Curiosity's location is number 6, and the month with the highest is number 9.
 
 * About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
-![MarsWeatherPyFigure54SolarLongitudevsTimewithPeaks](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/89b9458d-4629-4f21-a345-03c49e89fad6)
+<img width="873" alt="Screenshot 2024-04-27 at 10 23 00 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/5c7af303-e372-4a5b-91f5-1373519faca0">
 
    According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year, which is the same as the 687 Earth days found through an Internet search.
 
