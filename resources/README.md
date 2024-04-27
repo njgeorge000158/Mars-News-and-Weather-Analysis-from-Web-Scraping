@@ -1,7 +1,7 @@
-This folder holds the output files from the IPython Notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb.
+This folder holds the input/output files from the IPython Notebooks, mars_news.ipynb and mars_weather.ipynb.
 
 ----
 
 ## Copyright
 
-N. James George © 2023. All Rights Reserved.
+Nicholas J. George © 2023. All Rights Reserved.
