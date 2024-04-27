@@ -37,7 +37,7 @@ The second part includes the analysis of weather data subsequent to web scraping
 
    According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year, which is the same as the 687 Earth days found through an Internet search.
 
-![MarsWeatherPyFigure56MinimumDailyTemperaturevsEarthTimewithLabeledPeaks](https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-through-Web-Scraping/assets/137228821/370c0e96-9d9e-4946-b91c-a6fc25bef86d)
+<img width="1089" alt="Screenshot 2024-04-27 at 10 34 55 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/e7f8d699-2dcf-48e4-b63e-c81fd82af636">
 
    According to peaks in minimum temperatures from the data set, the number of Earth days in a Martian
 year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days
