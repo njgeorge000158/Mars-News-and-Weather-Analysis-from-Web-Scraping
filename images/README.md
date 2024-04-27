@@ -1,4 +1,4 @@
-This folder includes the images of tables and plots displayed in the IPython notebook, climate_analysis.ipynb: the IPython Notebook generates these images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
+This folder includes the images of tables and plots displayed in the IPython notebooks, mars_news.ipynb and mars_weather.ipynb: the IPython Notebook generates these images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
 
 ----
 
