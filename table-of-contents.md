@@ -53,7 +53,7 @@
 >> ### **Calculation of Minimum Daily Temperature Peaks**
 >> ### **Display Minimum Daily Temperature vs. Earth Time with Labeled Peaks**
 >> ### **Earth Days in a Martian Year from Minimum Daily Temperature Peaks**
-## <br> **4.6: Export DataFrame to CSV file**
+> ## <br> **4.6: Export DataFrame to CSV file**
 
 ----
 
