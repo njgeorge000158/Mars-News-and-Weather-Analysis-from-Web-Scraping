@@ -30,9 +30,9 @@ CONSTANT_LOCAL_FILE_NAME = 'climate_analysis_constants.py'
 # In[3]:
 
 
-#CONSTANT_MARS_NEWS_URL = 'https://static.bc-edx.com/data/web/mars_news/index.html'
+CONSTANT_MARS_NEWS_URL = 'https://static.bc-edx.com/data/web/mars_news/index.html'
 
-CONSTANT_MARS_NEWS_URL = 'https://mars.nasa.gov/news/'
+#CONSTANT_MARS_NEWS_URL = 'https://mars.nasa.gov/news/'
 
 CONSTANT_MARS_NEWS_JSON_FILE = './resources/mars_news.json'
 
