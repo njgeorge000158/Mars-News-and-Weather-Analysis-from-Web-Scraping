@@ -36,8 +36,6 @@ python3 -m pip install beautifulsoup4
 
 The IPython notebooks, mars_news.ipynb and mars_weather.ipynb, require the following Python scripts with them in the same folder:
 
-logx_constants.py
-
 logx.py
 
 mars_news_constants.py
@@ -45,8 +43,6 @@ mars_news_constants.py
 mathx.py
 
 matplotlibx.py
-
-pandasx_constants.py
 
 pandasx.py
 
@@ -64,11 +60,12 @@ To place the IPython notebook in Log Mode or Image Mode set the parameter for th
 
 #### Source code
 
-mars_news.ipynb, mars_weather.ipynb
+mars_news.ipynb, mars_weather.ipynb, logx.py, mars_news_constants.py, mathx.py, matplotlibx.py, pandasx.py, timex.py
+
 
 #### Input files
 
-https://mars.nasa.gov/news/
+https://static.bc-edx.com/data/web/mars_news/index.html
 https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 #### Output files
