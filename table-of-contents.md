@@ -35,17 +35,17 @@
 > ## <br> **3.2: Data Type Conversion**
 > ## <br> **3.3: Data Type Change Confirmation**
 # <br><br> **Section 4: Data Analysis**
-> ## <br> **4.1 -- How many months exist on Mars?**
-> ## <br> **4.2 -- How many Martian days' worth of data exist in the scraped data set?**
-> ## <br> **4.3 -- What is the average minimum daily temperature by month?**
+> ## <br> **4.1: How many months exist on Mars?**
+> ## <br> **4.2: How many Martian days' worth of data exist in the scraped data set?**
+> ## <br> **4.3: What is the average minimum daily temperature by month?**
 >> ### **Average Minimum Daily Temperature By Month**
 >> ### **Display Average Minimum Daily Temperature By Month**
 >> ### **Coldest Month in Curiosity's Location**
 >> ### **Warmest Month in Curiosity's Location**
-> ## <br> **4.4 -- What is the average daily atmospheric pressure by month?**
+> ## <br> **4.4: What is the average daily atmospheric pressure by month?**
 >> ### **Month with the Lowest Average Daily Atmospheric Pressure in Curiosity's Location**
 >> ### **Month with the Highest Average Daily Atmospheric Pressure in Curiosity's Location**
-> ## <br> **4.5 -- How many terrestrial (Earth) days are there in a Martian year?**
+> ## <br> **4.5: How many terrestrial (Earth) days are there in a Martian year?**
 >> ### **Solar Longitude**
 >> ### **Solar Longitude Peaks**
 >> ### **Earth Days in a Martian Year from Solar Longitude**
