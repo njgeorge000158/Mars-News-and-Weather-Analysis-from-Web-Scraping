@@ -27,7 +27,7 @@ Mars has 12 months, consistent with its orbital and calendrical structure as tra
 ### **How many Martian days of data are in the dataset?**
 The scraped dataset contains 1,867 Martian days — known as sols — of weather observations, providing a robust multi-year record of surface conditions at Curiosity's location.
 
-## **Temperature: Coldest and Warmest Months**
+### **Temperature: Coldest and Warmest Months**
 
 <img width="960" alt="Screenshot 2024-04-27 at 10 21 16 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/bfa60572-bfe9-42ad-9bf8-f3ee66de33ce">
 
