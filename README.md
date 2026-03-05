@@ -21,13 +21,13 @@ Using Splinter to navigate to the Mars News Website and Beautiful Soup to parse 
 
 The second component of the project focuses on quantitative climate analysis. After scraping the Mars Weather Data table from the Mars Temperature Data Site into a Pandas DataFrame, I analyzed the data to answer five key questions about conditions on the Martian surface at Curiosity's location.
 
-### **How many months exist on Mars?**
+### *How many months exist on Mars?*
 Mars has 12 months, consistent with its orbital and calendrical structure as tracked by NASA mission data.
 
-### **How many Martian days of data are in the dataset?**
+### *How many Martian days of data are in the dataset?*
 The scraped dataset contains 1,867 Martian days — known as sols — of weather observations, providing a robust multi-year record of surface conditions at Curiosity's location.
 
-### **Temperature: Coldest and Warmest Months**
+## **Temperature: Coldest and Warmest Months**
 
 <img width="960" alt="Screenshot 2024-04-27 at 10 21 16 AM" src="https://github.com/njgeorge000158/Mars-News-and-Weather-Analysis-from-Web-Scraping/assets/137228821/bfa60572-bfe9-42ad-9bf8-f3ee66de33ce">
 
